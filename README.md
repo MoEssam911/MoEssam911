@@ -9,12 +9,16 @@ Frontend Engineer with 3+ years of production experience building real-time, ent
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,vue,nuxtjs,tailwind,bootstrap,vite,webpack,git,figma)](https://skillicons.dev)
+**Core**
 
-**Core:** Vue 3 (Composition API) · TypeScript · Pinia · Vue Router · Nuxt.js (SSR)
+[![Core Stack](https://skillicons.dev/icons?i=js,ts,html,css,vue,nuxt,pinia,tailwind,bootstrap,vuetify)](https://skillicons.dev)
+
+**Tooling & Delivery**
+
+[![Tooling](https://skillicons.dev/icons?i=vitest,docker,githubactions,postman,git,figma)](https://skillicons.dev)
+
 **Real-time & Integrations:** WebSockets · WhatsApp Business API · Meta Integrations
 **Performance:** Web Vitals · Virtual Scrolling · Lazy Loading
-**Tooling:** REST APIs · Axios · CI/CD · ApexCharts
 
 ---
 
@@ -29,6 +33,6 @@ Frontend Engineer with 3+ years of production experience building real-time, ent
 
 ## 📫 Contact
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/moessam911/)
-&nbsp;
-[![Email](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg)](mailto:mohameddessam303@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moessam911/)
+[![Email](https://img.shields.io/badge/Email-1F2430?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohameddessam303@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1F2430?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MoEssam911)
